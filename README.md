@@ -97,15 +97,21 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     3.5 Any member of the Executive shall have their position declared vacant if they: 
         3.5.1 Submit a signed resignation letter to all the other members of the Executive; or 
         3.5.2 Cease to be a full member of the society; or 
-        3.5.3 Are removed from the Executive by a two thirds majority vote of the Executive that are not
-              subject to vacancy proceedings, following an absence from any three (3) Executive Meetings
-              without prior leave or following a failure to abide by the Society's Constitution.
-    3.6 Any vacancy on the society Executive must be filled by a candidate selected by the 
-        remaining Executive. 
-        3.6.1 There must be a two thirds majority vote in favour of the selected candidate for the 
-              position. 
-        3.6.2 The candidate must accept the offer of Executive position before they may fill the position. 
-        3.6.3 Any vacancy on the society Executive must be filled within ten (10) business days. 
+        3.5.3 Are removed from the Executive position after the following procedure is followed:
+	           3.5.3.1. A motion is carried by a two thirds majority vote of the Executive that are not subject to vacancy
+            proceedings, or the Executive is petitioned by fifteen (15) members to instigate impeachment proceedings;
+	           3.5.3.2. The members of the society are formally notified of the motion upon notice of an Extraordinary General 
+            Meeting under Section 4.2;
+	           3.5.3.3. The Executive  member concerned is notified of the motion and reasons for termination in writing at 
+            least five (5) academic days prior to the Extraordinary General Meeting;
+	           3.5.3.4. The Executive member concerned is given five (5) minutes to speak against the motion at the Extraordinary 
+            General Meeting;
+	           3.5.3.5. The motion is carried by the Extraordinary General Meeting.
+    3.6. Any vacancy in the society Executive must be filled by following the election procedure under Section 8.
+        3.6.1. If there is a tie for the vacant executive position, the current executive shall have a casting vote in the 
+        election.
+        3.6.2 The candidate must accept the offer of Executive position at an Extraordinary General Meeting before they may
+        fill the position.
     3.7 Duties 
         3.7.1 DUTIES OF THE CO-PRESIDENTS 
            a) To chair all society General, Executive, Annual and Extraordinary General 
@@ -305,6 +311,8 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
 # 8 ELECTIONS 
 
     8.1 Nominations for the Executive positions shall open during Arc-affiliated club's AGM period, or the week leading up to it.
+        8.1.1 In the event of a vacant Executive position, nominations must be opened within ten (10) business days of the
+        position becoming vacant.
     8.2 Nominations must remain open until the later of: 
         8.2.1 one calendar week after nominations open; or 
         8.2.2 there are at least two (2) nominees for Co-presidents and one (1) nominee for each 
@@ -322,7 +330,9 @@ UNSW CSESoc's Constitution; Easily track changes and see who suggested what amen
     8.5 If there is a tie for any Executive position between candidates, the outgoing executives shall 
         have a casting vote in the election. 
     8.6 Upon finalising of the election results, they must be pronounced to the membership within 
-        one (1) business day. 
+        one (1) business day.
+        8.6.1 In order to be appointed to an executive position, winner(s) of the election must accept their role and the
+        motion to appoint them has to pass at an Extraordinary General Meeting.
     8.7 Only full members are entitled to vote for the Executive. 
     8.8 Voting is to be confidential and anonymous with the exception of,
         8.8.1 In the event of a full member being prevented by the School of CSE from accessing the voting site,
